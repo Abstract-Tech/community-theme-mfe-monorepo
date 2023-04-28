@@ -1,0 +1,12 @@
+{
+  "name": "@abstract-tech/community-theme",
+  "private": true,
+  "version": "1.0.0",
+  "workspaces": [
+	"common/*",
+	"mfe/*"
+  ],
+  "devDependencies": {
+    "syncpack": "^9.8.6"
+  }
+}
